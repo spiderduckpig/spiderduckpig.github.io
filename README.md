@@ -1,14 +1,4 @@
-# Web Front-End Designer and Developer
 
-[![Build Status](https://travis-ci.com/Ovilia/ovilia.github.io.svg?branch=dev)](https://travis-ci.com/Ovilia/ovilia.github.io)
-
-Please visit: http://zhangwenli.com.
-
-![](./_res/screenshoot.png)
-
-## Blog Source Code
-
-<a href="https://github.com/Ovilia/blog/tree/gh-pages">https://github.com/Ovilia/blog/tree/gh-pages</a>
 
 ## License
 
