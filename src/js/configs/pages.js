@@ -20,6 +20,12 @@ export default [{
         apps: ['blog']
     }, {
         title: {
+            zh: '',
+            en: 'Organizations'
+        },
+        apps: ['ibm', 'paayj', 'sps', 'lab']
+    }, {
+        title: {
             zh: 'Bio',
             en: 'Bio'
         },
@@ -36,9 +42,9 @@ export default [{
     }, {
         title: {
             zh: '旧版个人网站',
-            en: 'Old Versions'
+            en: 'Music'
         },
-        apps: []
+        apps: ['spotify']
     }]
 }, {
     id: 2,

@@ -151,42 +151,53 @@ export default {
         logoTheme: themes.medium,
         link: 'https://hackathonsatwustl.vercel.app/'
     },
-    ectheme: {
+    ibm: {
         name: {
-            zh: '主题编辑器',
-            en: 'Theme Editor'
+            zh: '',
+            en: 'IBM Accelerate'
         },
-        pos: [3, 4],
-        logoTheme: themes.dark,
-        link: 'https://github.com/Ovilia/ECharts-Theme-Builder'
-    },
-    ecsunburst: {
-        name: {
-            zh: '旭日图',
-            en: 'Sunburst'
-        },
-        pos: [0, 5],
-        logoTheme: themes.dark,
-        link: 'https://echarts.apache.org/examples/zh/index.html#chart-type-sunburst'
-    },
-    ecliquidfill: {
-        name: {
-            zh: '水球图',
-            en: 'LiquidFill'
-        },
-        pos: [1, 5],
-        logoTheme: themes.medium,
-        link: 'https://ecomfe.github.io/echarts-liquidfill/example/'
-    },
-    ecbot: {
-        name: {
-            zh: 'Issue 机器人',
-            en: 'Issue Bot'
-        },
-        pos: [2, 5],
+        pos: [2, 1],
         logoTheme: themes.light,
-        link: 'https://github.com/apache/echarts-bot'
+        link: 'https://www.ibm.com/us-en?lnk=m'
     },
+    paayj: {
+        name: {
+            zh: '',
+            en: 'Paayj'
+        },
+        pos: [2, 2],
+        logoTheme: themes.light,
+        link: 'https://www.paayj.com/'
+    },
+    sps: {
+        name: {
+            zh: '',
+            en: 'SPS'
+        },
+        pos: [2, 3],
+        logoTheme: themes.light,
+        link: 'https://www.spsnational.org/sps-zones-and-chapters/zone-12'
+    },
+    lab: {
+        name: {
+            zh: '',
+            en: 'Jin Lab'
+        },
+        pos: [2, 4],
+        logoTheme: themes.light,
+        link: 'https://scjin.github.io/people.html'
+    },
+    spotify: {
+        name: {
+            zh: '',
+            en: 'Spotify'
+        },
+        pos: [3,1],
+        logoTheme: themes.dark,
+        link: 'https://open.spotify.com/user/x6cmaow72s3ljmjynfd55cx7i/'
+    },
+
+
     comment: {
         name: {
             zh: '留言',
