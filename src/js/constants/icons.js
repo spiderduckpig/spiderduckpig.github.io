@@ -52,7 +52,7 @@ export default {
         },
         pos: [0, 2],
         logoTheme: themes.light,
-        link: 'https://github.com/Ovilia/ovilia.github.io/issues/10/?ref=home2019'
+        link: 'https://github.com/spiderduckpig'
     },
     cover: {
         name: {
@@ -98,7 +98,7 @@ export default {
         },
         pos: [3, 2],
         logoTheme: themes.light,
-        link: 'http://zhangwenli.com/blog/?ref=home2019'
+        link: 'https://blog-eight-orpin-49.vercel.app/'
     },
     // config: {
     //     name: '设置',
@@ -142,6 +142,15 @@ export default {
         logoTheme: themes.medium,
         link: 'placeholder'
     },
+    haw: {
+        name: {
+            zh: '',
+            en: 'Hack@WashU'
+        },
+        pos: [1, 4],
+        logoTheme: themes.medium,
+        link: 'https://hackathonsatwustl.vercel.app/'
+    },
     ectheme: {
         name: {
             zh: '主题编辑器',
@@ -177,42 +186,6 @@ export default {
         pos: [2, 5],
         logoTheme: themes.light,
         link: 'https://github.com/apache/echarts-bot'
-    },
-    '2014': {
-        name: {
-            zh: '2014',
-            en: '2014'
-        },
-        pos: [0, 6],
-        logoTheme: themes.dark,
-        link: 'http://zhangwenli.com/2014/?ref=home2019'
-    },
-    '2015': {
-        name: {
-            zh: '2015',
-            en: '2015'
-        },
-        pos: [1, 6],
-        logoTheme: themes.medium,
-        link: 'http://zhangwenli.com/2015/?ref=home2019'
-    },
-    '2016': {
-        name: {
-            zh: '2016',
-            en: '2016'
-        },
-        pos: [2, 6],
-        logoTheme: themes.dark,
-        link: 'http://zhangwenli.com/2016/?ref=home2019'
-    },
-    '2017': {
-        name: {
-            zh: '2017',
-            en: '2017'
-        },
-        pos: [3, 6],
-        logoTheme: themes.medium,
-        link: 'http://zhangwenli.com/2017/?ref=home2019'
     },
     comment: {
         name: {

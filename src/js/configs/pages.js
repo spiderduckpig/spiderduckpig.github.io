@@ -11,13 +11,19 @@ export default [{
             zh: '网页作品',
             en: 'Projects'
         },
-        apps: ['Calendarapp', 'Colorblindness']
+        apps: ['Calendarapp', 'Colorblindness', 'haw']
     }, {
         title: {
             zh: 'ECharts 相关',
             en: 'Blog/Thoughts'
         },
-        apps: ['ecsunburst', 'ecliquidfill', 'ectheme', 'ecbot']
+        apps: ['blog']
+    }, {
+        title: {
+            zh: 'Bio',
+            en: 'Bio'
+        },
+        apps: []
     }]
 }, {
     id: 1,
@@ -32,15 +38,15 @@ export default [{
             zh: '旧版个人网站',
             en: 'Old Versions'
         },
-        apps: ['2014', '2015', '2016', '2017']
+        apps: []
     }]
 }, {
     id: 2,
     groups: [{
         title: {
             zh: '其他',
-            en: 'Others'
+            en: 'Misc. (todo)'
         },
-        apps: ['blog', 'comment']
+        apps: []
     }]
 }];

@@ -20,9 +20,11 @@ export default Vue.component('app-group', {
     template:
         `<div class="app-group" :style="{'background-image': 'url(' + appGroupImg + ')'}">
             <div class="app-group-title" :style="{'background-image': 'url(' + appGroupTitleImg + ')'}">{{ title[lang] }}</div>
+            <div class="app-group-desc"></div>
             <div class="app-group-content">
                 <app v-for="appId in apps" :app-id="appId" :key="appId"></app>
             </div>
+            
         </div>`,
 
     data: function () {
@@ -59,6 +61,13 @@ export default Vue.component('app-group', {
 
     mounted: function () {
         this.resize();
+
+        console.log(this._props.title.en)
+        if(this._props.title.en == 'Bio') {
+            const desc = this.$el.getElementsByClassName('app-group-desc')[0]
+            desc.innerHTML = 'Hi, my name is Brian Yu, and welcome to my site. I am a current undergrad CS student at WashU who is interested in CS, physics, philosophy, effective altruism, and more.'
+        }
+
         window.addEventListener('resize', this.resize);
     }
 });
