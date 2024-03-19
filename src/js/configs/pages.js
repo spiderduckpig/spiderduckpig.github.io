@@ -11,7 +11,7 @@ export default [{
             zh: '网页作品',
             en: 'Projects'
         },
-        apps: ['Calendarapp', 'Colorblindness', 'haw']
+        apps: ['Calendarapp', 'haw']
     }, {
         title: {
             zh: 'ECharts 相关',
