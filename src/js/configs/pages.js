@@ -3,19 +3,19 @@ export default [{
     groups: [{
         title: {
             zh: 'App 作品',
-            en: 'Apps'
+            en: 'General'
         },
-        apps: ['omynote', 'gooday', 'calendar']
+        apps: ['Resume', 'cover', 'email']
     }, {
         title: {
             zh: '网页作品',
-            en: 'Websites'
+            en: 'Projects'
         },
-        apps: ['lipstick', 'polyvia', 'wedding', 'moonight']
+        apps: ['Calendarapp', 'Colorblindness']
     }, {
         title: {
             zh: 'ECharts 相关',
-            en: 'ECharts'
+            en: 'Blog/Thoughts'
         },
         apps: ['ecsunburst', 'ecliquidfill', 'ectheme', 'ecbot']
     }]
@@ -26,7 +26,7 @@ export default [{
             zh: '社交网络账号',
             en: 'Social Networks'
         },
-        apps: ['github', 'dribbble', 'weibo', 'douban', 'zhihu', 'bilibili']
+        apps: ['github', 'linkedin']
     }, {
         title: {
             zh: '旧版个人网站',
@@ -41,6 +41,6 @@ export default [{
             zh: '其他',
             en: 'Others'
         },
-        apps: ['blog', 'email', 'comment']
+        apps: ['blog', 'comment']
     }]
 }];

@@ -1,33 +1,6 @@
 import themes from './themes';
 
 export default {
-    douban: {
-        name: {
-            zh: '豆瓣',
-            en: 'Douban'
-        },
-        pos: [0, 0],
-        logoTheme: themes.medium,
-        link: 'https://www.douban.com/people/ovilia1024/'
-    },
-    bilibili: {
-        name: {
-            zh: 'Bilibili',
-            en: 'Bilibili'
-        },
-        pos: [1, 0],
-        logoTheme: themes.dark,
-        link: 'https://space.bilibili.com/369508085/#/'
-    },
-    dribbble: {
-        name: {
-            zh: 'Dribbble',
-            en: 'Dribbble'
-        },
-        pos: [2, 0],
-        logoTheme: themes.medium,
-        link: 'https://dribbble.com/wenli'
-    },
     gooday: {
         name: {
             zh: '牙哈哈',
@@ -45,15 +18,6 @@ export default {
         pos: [0, 1],
         logoTheme: themes.dark
     },
-    weibo: {
-        name: {
-            zh: '微博',
-            en: 'Weibo'
-        },
-        pos: [1, 1],
-        logoTheme: themes.light,
-        link: 'https://weibo.com/plainjane'
-    },
     zhifubao: {
         name: {
             zh: '送羡辙一本书',
@@ -63,15 +27,6 @@ export default {
         logoTheme: themes.medium,
         appStatusTheme: themes.dark
     },
-    zhihu: {
-        name: {
-            zh: '知乎',
-            en: 'Zhihu'
-        },
-        pos: [3, 1],
-        logoTheme: themes.light,
-        link: 'https://www.zhihu.com/people/ovilia'
-    },
     github: {
         name: {
             zh: 'GitHub',
@@ -79,7 +34,16 @@ export default {
         },
         pos: [0, 2],
         logoTheme: themes.light,
-        link: 'https://github.com/Ovilia/?ref=home2019'
+        link: 'https://github.com/spiderduckpig'
+    },
+    linkedin: {
+        name: {
+            zh: '',
+            en: 'LinkedIn'
+        },
+        pos: [0, 3],
+        logoTheme: themes.light,
+        link: 'https://www.linkedin.com/in/brian-yu-34b22b255/'
     },
     source: {
         name: {
@@ -90,6 +54,15 @@ export default {
         logoTheme: themes.light,
         link: 'https://github.com/Ovilia/ovilia.github.io/issues/10/?ref=home2019'
     },
+    cover: {
+        name: {
+            zh: '',
+            en: 'Cover Letter'
+        },
+        pos: [1, 1],
+        logoTheme: themes.medium,
+        link: ''
+    },
     email: {
         name: {
             zh: 'Email',
@@ -98,7 +71,7 @@ export default {
         pos: [1, 2],
         logoTheme: themes.medium,
         appStatusTheme: themes.light,
-        link: 'mailto:me@zhangwenli.com'
+        link: 'mailto:brian.hw.yu@gmail.com'
     },
     music: {
         name: {
@@ -127,29 +100,20 @@ export default {
         logoTheme: themes.light,
         link: 'http://zhangwenli.com/blog/?ref=home2019'
     },
-    wedding: {
-        name: {
-            zh: '在线婚礼',
-            en: 'Wedding'
-        },
-        pos: [0, 3],
-        logoTheme: themes.dark,
-        link: 'https://umeecorn.com/wedding/?ref=home2019'
-    },
     // config: {
     //     name: '设置',
     //     pos: [2, 3],
     //     logoTheme: themes.medium,
     //     appStatusTheme: themes.dark
     // },
-    omynote: {
+    Resume: {
         name: {
             zh: '众山小笔记',
-            en: 'Omynote'
+            en: 'Resume'
         },
         pos: [0, 7],
         logoTheme: themes.dark,
-        link: 'https://omynote.com/?ref=zwl'
+        link: 'https://www.overleaf.com/project/65501a8eebdf35dce4945b64'
     },
     calendar: {
         name: {
@@ -160,32 +124,23 @@ export default {
         logoTheme: themes.medium,
         link: 'http://zhangwenli.com/2019-typography-calendar/?ref=home2019'
     },
-    lipstick: {
+    Calendarapp: {
         name: {
-            zh: '口红可视化',
-            en: 'Lipsticks'
+            zh: '',
+            en: 'Calendarapp.org'
         },
-        pos: [0, 4],
-        logoTheme: themes.light,
-        link: 'http://zhangwenli.com/lipstick/?ref=home2019'
-    },
-    moonight: {
-        name: {
-            zh: '音频可视化',
-            en: 'Moonight'
-        },
-        pos: [1, 4],
-        logoTheme: themes.light,
-        link: 'https://github.com/Ovilia/moonight/?ref=home2019'
-    },
-    polyvia: {
-        name: {
-            zh: 'Low Poly',
-            en: 'Low Poly'
-        },
-        pos: [2, 4],
+        pos: [1, 2],
         logoTheme: themes.medium,
-        link: 'https://github.com/Ovilia/Polyvia/?ref=home2019'
+        link: 'https://calendarapp.org'
+    },
+    Colorblindness: {
+        name: {
+            zh: '',
+            en: 'Colorvision app'
+        },
+        pos: [1, 3],
+        logoTheme: themes.medium,
+        link: 'placeholder'
     },
     ectheme: {
         name: {
