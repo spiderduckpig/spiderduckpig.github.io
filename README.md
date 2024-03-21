@@ -1,5 +1,1 @@
-
-
-## License
-
-MIT License
+Creative Commons Attribution-NonCommercial 3.0 Unported License
