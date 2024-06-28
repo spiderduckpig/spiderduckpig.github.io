@@ -1,5 +1,3 @@
+Creative Commons Attribution-NonCommercial 3.0 Unported License
 
-
-## License
-
-MIT License
+Adapted from Wenli Zhang
