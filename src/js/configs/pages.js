@@ -9,9 +9,9 @@ export default [{
     }, {
         title: {
             zh: '网页作品',
-            en: 'Projects'
+            en: 'Personal Projects'
         },
-        apps: ['Calendarapp', 'haw']
+        apps: ['Calendarapp', 'haw', 'Mandelbrot', 'khan']
     }, {
         title: {
             zh: 'ECharts 相关',
@@ -23,7 +23,7 @@ export default [{
             zh: '',
             en: 'Organizations'
         },
-        apps: ['ibm', 'paayj', 'sps', 'lab']
+        apps: ['ibm', 'paayj', 'sps', 'lab', 'exegy']
     }, {
         title: {
             zh: 'Bio',

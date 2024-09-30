@@ -65,7 +65,7 @@ export default Vue.component('app-group', {
         console.log(this._props.title.en)
         if(this._props.title.en == 'Bio') {
             const desc = this.$el.getElementsByClassName('app-group-desc')[0]
-            desc.innerHTML = 'Hi, my name is Brian Yu, and welcome to my site. I am a current undergrad CS student at UChicago who is interested in CS, physics, philosophy, and more.'
+            desc.innerHTML = 'Hi, my name is Brian Yu, and welcome to my site. I am a current undergrad student at UChicago who is interested in CS and physics'
         }
 
         window.addEventListener('resize', this.resize);

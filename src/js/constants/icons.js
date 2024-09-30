@@ -57,7 +57,7 @@ export default {
     cover: {
         name: {
             zh: '',
-            en: 'Cover Letter'
+            en: 'Cover Letter (TODO)'
         },
         pos: [1, 1],
         logoTheme: themes.medium,
@@ -113,7 +113,7 @@ export default {
         },
         pos: [0, 7],
         logoTheme: themes.dark,
-        link: 'https://www.overleaf.com/project/65501a8eebdf35dce4945b64'
+        link: 'https://www.overleaf.com/read/wyshjbytmbct#a3609d'
     },
     calendar: {
         name: {
@@ -133,12 +133,30 @@ export default {
         logoTheme: themes.medium,
         link: 'https://calendarapp.org'
     },
+    Mandelbrot: {
+        name: {
+            zh: '',
+            en: 'Mandelbrot'
+        },
+        pos: [1, 3],
+        logoTheme: themes.medium,
+        link: 'https://drive.google.com/file/d/10-JJmBwQciriuyIvrawWdO18gHO5OCWM/view?usp=sharing'
+    },
+    khan: {
+        name: {
+            zh: '',
+            en: 'Khanacademy projects 2015-2019'
+        },
+        pos: [1, 4],
+        logoTheme: themes.light,
+        link: 'https://www.khanacademy.org/profile/kaid_572396464395912322761282/projects'
+    },
     Colorblindness: {
         name: {
             zh: '',
             en: 'Colorvision app'
         },
-        pos: [1, 3],
+        pos: [1, 5],
         logoTheme: themes.medium,
         link: 'placeholder'
     },
@@ -147,7 +165,7 @@ export default {
             zh: '',
             en: 'Hack@WashU'
         },
-        pos: [1, 4],
+        pos: [1, 6],
         logoTheme: themes.medium,
         link: 'https://hackathonsatwustl.vercel.app/'
     },
@@ -187,6 +205,16 @@ export default {
         logoTheme: themes.light,
         link: 'https://scjin.github.io/people.html'
     },
+    exegy: {
+        name: {
+            zh: '',
+            en: 'Exegy'
+        },
+        pos: [2, 5],
+        logoTheme: themes.light,
+        link: 'https://www.exegy.com/iceberg-order-detection-intraday-launch/'
+    },
+
     spotify: {
         name: {
             zh: '',
