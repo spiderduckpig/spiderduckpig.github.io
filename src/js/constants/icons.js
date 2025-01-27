@@ -246,6 +246,17 @@ export default {
         link: 'https://open.spotify.com/user/x6cmaow72s3ljmjynfd55cx7i/'
     },
 
+    license: {
+        name: {
+            zh: '',
+            en: 'Credit to Wenli Zhang (license/attr)'
+        },
+        pos: [4, 1],
+        logoTheme: themes.dark,
+        link: 'https://github.com/spiderduckpig/spiderduckpig.github.io/blob/master/LICENSE.md'
+
+    },
+
 
     comment: {
         name: {
