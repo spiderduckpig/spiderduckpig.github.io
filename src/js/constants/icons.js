@@ -221,7 +221,7 @@ export default {
             en: 'Portal'
         },
         pos: [2, 6],
-        logoTheme: themes.light,
+        logoTheme: themes.medium,
         link: 'https://www.portalcareerdiscovery.com/'
 
     },
@@ -232,7 +232,7 @@ export default {
             en: 'PULSE-A CubeSAT'
         },
         pos: [2, 7],
-        logoTheme: themes.dark,
+        logoTheme: themes.medium,
         link: 'https://voices.uchicago.edu/seds/'
     },
 
