@@ -214,6 +214,27 @@ export default {
         logoTheme: themes.light,
         link: 'https://www.exegy.com/iceberg-order-detection-intraday-launch/'
     },
+   
+    portal: {
+        name: {
+            zh: '',
+            en: 'Portal'
+        },
+        pos: [2, 6],
+        logoTheme: themes.light,
+        link: 'https://www.portalcareerdiscovery.com/'
+
+    },
+
+    pulse: {
+        name: {
+            zh: '',
+            en: 'PULSE-A CubeSAT'
+        },
+        pos: [2, 7],
+        logoTheme: themes.dark,
+        link: 'https://voices.uchicago.edu/seds/'
+    },
 
     spotify: {
         name: {

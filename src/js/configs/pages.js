@@ -5,7 +5,7 @@ export default [{
             zh: 'App 作品',
             en: 'General'
         },
-        apps: ['Resume', 'cover', 'email']
+        apps: ['email']
     }, {
         title: {
             zh: '网页作品',
@@ -23,7 +23,7 @@ export default [{
             zh: '',
             en: 'Organizations'
         },
-        apps: ['ibm', 'paayj', 'sps', 'lab', 'exegy']
+        apps: ['ibm', 'paayj', 'sps', 'lab', 'exegy', 'portal', 'pulse']
     }, {
         title: {
             zh: 'Bio',
