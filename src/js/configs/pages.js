@@ -14,12 +14,6 @@ export default [{
         apps: ['Calendarapp', 'haw', 'Mandelbrot', 'khan']
     }, {
         title: {
-            zh: 'ECharts 相关',
-            en: 'Blog/Thoughts'
-        },
-        apps: ['blog']
-    }, {
-        title: {
             zh: '',
             en: 'Organizations'
         },
@@ -45,6 +39,12 @@ export default [{
             en: 'Music'
         },
         apps: ['spotify']
+    }, {
+        title: {
+            zh: 'ECharts 相关',
+            en: 'Blog/Thoughts'
+        },
+        apps: ['blog']
     }]
 }, {
     id: 2,
