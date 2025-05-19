@@ -73,6 +73,16 @@ export default {
         appStatusTheme: themes.light,
         link: 'mailto:brian.hw.yu@gmail.com'
     },
+    manifold: {
+        name: {
+            zh: 'Manifold',
+            en: 'Manifold'
+        },
+        pos: [1, 3],
+        logoTheme: themes.medium,
+        appStatusTheme: themes.light,
+        link: 'https://manifold.markets/spiderduckpig'
+    },
     music: {
         name: {
             zh: '音乐',

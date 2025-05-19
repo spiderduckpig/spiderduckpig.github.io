@@ -5,7 +5,7 @@ export default [{
             zh: 'App 作品',
             en: 'General'
         },
-        apps: ['email', 'linkedin', 'github']
+        apps: ['email', 'linkedin', 'github', 'manifold']
     }, {
         title: {
             zh: '网页作品',
